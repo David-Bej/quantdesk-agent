@@ -4,7 +4,7 @@ An LLM agent that answers trading-desk questions such as *"What's the 1-day VaR 
 
 Final project for **SI3003 Inteligencia Artificial** (EAFIT, 2026-2), **Option B: agent with tools**.
 
-## 1. Team
+## 1. Author
 
 - David Bejman Lehrer
 
